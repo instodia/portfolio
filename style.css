@@ -109,7 +109,7 @@ section h2::after {
 /* ============================================== */
 .hero {
     text-align: center;        /* Centers all text */
-    padding: 120px 20px;       /* Large top/bottom spacing */
+    padding: 120px 50px;       /* Large top/bottom spacing */
     /* background: linear-gradient(135deg, #008cc3 0%, #00bfff 100%); /* Primary green gradient */
     /* To use an image instead, uncomment below and replace 'your-image.jpg' with your image path: */
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/DarkOrchid_tints_and_shades.svg/640px-DarkOrchid_tints_and_shades.svg.png');
